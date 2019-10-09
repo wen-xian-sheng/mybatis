@@ -8,3 +8,6 @@ pull之後導入eclipse或idea
 			connectionURL="jdbc:mysql://192.168.178.100:3306/atcrowdfunding"<br>
 			userId="root" password="root"><br>
 		</jdbcConnection>
+		     <br>
+右擊pom.xml文件,执行逆向生成操作的Maven命令(maven->build->輸入命令):mybatis-generator:generate
+
