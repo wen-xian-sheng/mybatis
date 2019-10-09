@@ -8,4 +8,5 @@ pull之後導入eclipse或idea
 			connectionURL="jdbc:mysql://192.168.178.100:3306/atcrowdfunding"<br>
 			userId="root" password="root"><br>
 		</jdbcConnection>
-		      <br>
+	
+	!
